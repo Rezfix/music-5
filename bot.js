@@ -11,13 +11,13 @@ const gif = require("gif-search");
 const client = new Discord.Client({disableEveryone: true});
  
 client.on('ready', () => {
-    client.user.setGame('Type 5help','https://www.twitch.tv/RezfixServer');
+    client.user.setGame('1play Sounds','https://www.twitch.tv/Family');
     console.log('---------------');
-    console.log('5play Online')
+    console.log('1play Online')
     console.log('---------------')
   });
 
-const prefix = "5";
+const prefix = "1";
 /////////////////////////
 ////////////////////////
  
